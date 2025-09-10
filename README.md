@@ -14,7 +14,7 @@ Este proyecto implementa una librería de funciones matemáticas básicas con pr
 
 ```bash
 # Clonar el repositorio
-git clone <url-del-repositorio>
+git clone https://github.com/bsicay/ContinuousIntegrationLab.git
 cd ContinuousIntegrationLab
 
 # No se requieren dependencias adicionales
