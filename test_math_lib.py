@@ -128,7 +128,7 @@ class TestMathLib(unittest.TestCase):
         """
         # Esta línea está intencionalmente mal para demostrar que los tests fallan
         # Comenta la siguiente línea para que los tests pasen
-        # self.assertEqual(square(2), 5)  # Esto debería ser 4, no 5
+        self.assertEqual(square(2), 5)  # Esto debería ser 4, no 5
 
 
 if __name__ == '__main__':
