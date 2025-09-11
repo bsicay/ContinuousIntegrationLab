@@ -9,6 +9,8 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    # Este job debe pasar para que el PR pueda ser mergeado
+    name: Run Tests and Linting
     
     strategy:
       matrix:

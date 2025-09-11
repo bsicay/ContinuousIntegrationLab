@@ -127,7 +127,6 @@ class TestMathLib(unittest.TestCase):
         Esta prueba está diseñada para fallar y demostrar que el sistema de CI funciona.
         """
         # Esta línea está intencionalmente mal para demostrar que los tests fallan
-        # Comenta la siguiente línea para que los tests pasen
         # self.assertEqual(square(2), 5)  # Esto debería ser 4, no 5
 
 
